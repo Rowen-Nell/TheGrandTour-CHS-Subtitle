@@ -18,29 +18,29 @@
 
    | 字幕：所有正文字幕设置为：位于视频中下，思源黑体 斜体 大小为110 边框2.00 阴影3.00，将英语字幕换行同时更改字体大小为90 |
    | ------------------------------------------------------------ |
-   | ![](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F15-52-00-a0846c59dbb9cd94a9b5a63d914b58fb.png) |
+   | ![字幕](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F16-58-25-a015a11dfedc4de358fdfad5b7697350.webp) |
 
    | 字幕ENG：位于视频中下，TheGrandTour字幕组部分字幕没有将中文与英语换行放在一起，所以单设了个给英语正文字幕的字体样式，与“字幕”设置相同只将大小设为90 |
    | ------------------------------------------------------------ |
-   | ![](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F15-52-22-60b43952bf2f60b30cc1581e48c40211.png) |
+   | ![字幕ENG](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F16-58-33-fa46641fbf8f7375b1bbe7ea1a3864ce.webp) |
 
    | 副本字幕：位于视频中下，为正文中的非英语设置的翻译：思源黑体 斜体 大小为110 边框3.00 阴影0.00 不透明背景 |
    | ------------------------------------------------------------ |
-   | ![](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F15-52-46-93ead9de4bd18868b005de852f9ce41f.png) |
+   | ![副本字幕](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F16-58-40-8b314e88b1efabc2e3fdee6f3e165227.webp) |
 
    | 注释：位于视频中上，思源黑体 斜体 大小为90 边框4.00 阴影3.00，位于屏幕上方 |
    | ------------------------------------------------------------ |
-   | ![](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F15-53-02-5ce2d09b76b1253fb948d12511744bec.png) |
+   | ![注释](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F16-58-51-9f7837c3aaf85e78a981864c0a80b46c.webp) |
 
    | staff：位于视频右上，字体制作成员信息，方正喵呜体 粗体 大小为100 边框4.00 阴影2.00 颜色设置为&H0351FF |
    | ------------------------------------------------------------ |
-   | ![](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F15-53-44-c827f5a8855be86747e67b68dd888331.png) |
+   | ![staff](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F16-59-00-01d4cdebcd2a4c17fd5800936a088998.webp) |
 
    | Others：为视频中出现的文本提供翻译，不设固定字体大小和位置...，根据需要设置相关特效 |
    | ------------------------------------------------------------ |
-   | ![](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F15-54-28-85e2b198b649659235c0245281acc45d.png) |
-   | ![](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F15-54-40-c40c2a1491fc7de64572a73e4763294f.png) |
-   | ![](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F15-54-53-ecde4e6868812125845e94241018b861.png) |
+   | ![Others_1](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F17-01-09-81947b1749e915dc4ba67cf687d7c0fd.webp) |
+   | ![Others_2](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F16-59-14-d4a2093005674079e1e542808c700b1d.webp) |
+   | ![Others_3](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F16-59-20-b11c4fae251467372c342c97b0765dd3.webp) |
 
 4. 为优化观看体验，故删除左上角字幕组Logo
 5. 为部分字幕添加移动特效
