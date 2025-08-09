@@ -1,4 +1,4 @@
-# The Grand Tour CHS&Eng 字幕
+# The Grand Tour CHS&ENG 字幕
 
 在观看The Grand Tour时，由于没有找到完美适合Amazon 4K HDR版本的中英字幕，随个人根据”微博：[TheGrandTour字幕组](https://weibo.com/u/5664670417)“发布的字幕，重新做了这份字幕。
 
