@@ -6,7 +6,10 @@
 
 ## Season 01
 
-适配片源：The.Grand.Tour.2016.S01.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-NOGRP[rartv]
+适配片源：
+```
+The.Grand.Tour.2016.S01.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-NOGRP[rartv]
+```
 
 主要改动：
 1. 分辨率4K化：TheGrandTour字幕组发布的字幕分辨率设置混乱，一部分是1080p一部分是720p。为适配4K片源，这里将所有字幕均调整为3840*2160。
