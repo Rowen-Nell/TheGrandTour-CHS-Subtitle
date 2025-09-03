@@ -14,7 +14,11 @@
 
 2. 时间轴调整：调整时间轴以适配片源
 
-3. 字体设置统一化：由于TheGrandTour字幕组发布的字幕存在字体设置混乱等问题，这里将所有字体进行了完全重新调整设置
+3. 为优化观看体验，故删除左上角字幕组Logo
+
+4. 为部分字幕添加移动特效
+
+5. 字体设置统一化：由于原字幕存在字体设置混乱等问题，这里将所有字体进行了完全重新调整设置
 
    将字幕中的样式设置简化为：字幕，字幕ENG，副本字幕，注释，staff，Others
 
@@ -43,6 +47,3 @@
    | ![Others_1](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F17-01-09-81947b1749e915dc4ba67cf687d7c0fd.webp) |
    | ![Others_2](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F16-59-14-d4a2093005674079e1e542808c700b1d.webp) |
    | ![Others_3](https://typora-rn.oss-cn-beijing.aliyuncs.com/img/2025%2F08%2F07%2F16-59-20-b11c4fae251467372c342c97b0765dd3.webp) |
-
-4. 为优化观看体验，故删除左上角字幕组Logo
-5. 为部分字幕添加移动特效
